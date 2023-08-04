@@ -184,4 +184,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Adding config.py file.
+api_keys.py
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
