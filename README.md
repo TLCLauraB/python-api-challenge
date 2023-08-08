@@ -7,7 +7,7 @@ Homework Repo for Challenge 6
 
 I received help and support from my fellow Data Vis classmates via our Discord Server (both through voice chat and text), as well as our class-provided Slack Channel. I regularly attend both before- and after-class Office Hours to engage the materials with the Instructor and TAs.
 
-I rewatched several of the classes from Module 5 using the Zoom recordings found at BSC > Zoom > Cloud Recordings. In conjunction with that, I re-reviewed the Module 5 Instructor Demos provided through GitLab.
+I rewatched several of the classes from Module 5 using the Zoom recordings found at BSC > Zoom > Cloud Recordings. In conjunction with that, I re-reviewed the Module 5 Instructor Demos provided through GitLab.In particular, Module 5.1 Scaterplots and Module 5.3 Fits and Regression.
 
 What are:<br />
 `# Test for Success`
@@ -26,9 +26,13 @@ I utilized the following resources:
 
 * General Documentation
     * https://www.toptal.com/developers/gitignore/
+    * https://openweathermap.org/api/one-call-3
+    * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+
 
 * General Reference:
-
+    * https://stackoverflow.com/questions/55507926/create-folders-dynamically-and-write-csv-files-to-that-folders
+    * https://www.geeksforgeeks.org/ml-linear-regression/
     
 * YouTube Videos
 
