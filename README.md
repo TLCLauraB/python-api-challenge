@@ -12,6 +12,9 @@ I rewatched several of the classes from Module 5 using the Zoom recordings found
 What are:<br />
 `# Test for Success`
 These are milestone tests I use to make sure the functions I am building preform as desired before incorporating into the whole of the code.
+<br />
+`# DEBUGGING`
+When something would break, I would go back and run alternative methods of a section until I found a solution that matched the example.
 
 I utilized the following resources:
 
@@ -28,11 +31,13 @@ I utilized the following resources:
     * https://www.toptal.com/developers/gitignore/
     * https://openweathermap.org/api/one-call-3
     * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html
 
 
 * General Reference:
     * https://stackoverflow.com/questions/55507926/create-folders-dynamically-and-write-csv-files-to-that-folders
     * https://www.geeksforgeeks.org/ml-linear-regression/
+    * https://stackoverflow.com/questions/68474856/making-a-list-of-coordinates-from-2-seperate-lists-that-display-latitude-and-lon
     
 * YouTube Videos
 
